@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Le projet"
+permalink: /projet/
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam id nunc eget diam cursus porttitor non nec mauris. Nunc consequat nunc eu sapien sollicitudin dignissim. Vivamus felis erat, interdum ac aliquet vitae, consequat vitae ipsum. Aliquam laoreet risus vel molestie ornare. Mauris venenatis sem non diam rutrum mollis. Aliquam vitae enim est. Duis tempor iaculis tristique.
