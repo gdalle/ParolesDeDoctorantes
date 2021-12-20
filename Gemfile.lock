@@ -282,6 +282,9 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-include-cache
+  jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
   jekyll-theme-basically-basic
   tzinfo (~> 1.2)
   tzinfo-data

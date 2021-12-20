@@ -8,21 +8,21 @@ t:
   skip_content: "Skip to content"
   skip_footer: "Skip to footer"
   menu: "Menu"
-  search: "Search"
-  site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
+  search: "Recherche"
+  site_search: "Recherche site"
+  results_found: "Résultats trouvés"
+  search_placeholder_text: "Entrez votre recherche..."
+  home: "Accueil"
+  newer: "Récents"
+  older: "Anviens"
   email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
+  subscribe: "Flux RSS"
+  read_more: "Lire plus"
   posts: "Posts"
   page: "Page"
   of: "of"
-  min_read: "min read"
-  present: "Present"
+  min_read: "minutes de lecture"
+  present: "Présent"
   cv_awards: "Awards"
   cv_summary_contact: "Contact"
   cv_summary_contact_email: "Email"
@@ -48,6 +48,6 @@ google_fonts:
 # Create a custom list to override the default setting of including links to all
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
-navigation_pages:
-  - about.md
-  - cv.md
+# navigation_pages:
+#   - about.md
+#   - cv.md
